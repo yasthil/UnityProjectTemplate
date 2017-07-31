@@ -5,6 +5,12 @@
 /[Bb]uilds/
 /Assets/AssetStoreTools*
 
+# For Mac
+Library/
+Temp/
+Build/
+Builds/
+
 # Visual Studio 2015 cache directory
 /.vs/
 
